@@ -1,0 +1,15 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    color: grey;
+    background-color: white;
+}
+
+/*Navigation Bar*/
+
+.navbar {
+    display:flex;
+    justify-content: space-between;
+    padding: 10px;
+    align-items: center;
+}
+
